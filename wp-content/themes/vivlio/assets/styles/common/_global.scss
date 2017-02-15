@@ -95,7 +95,7 @@ img {
     }
   }
   .twitter {
-    @include rem-fallback(margin-top, 7);
+    @include rem-fallback(margin-top, 8);
   }
 }
 
