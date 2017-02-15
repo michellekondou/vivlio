@@ -128,6 +128,24 @@ img {
   padding: 0;
 }
 
+/* Fade CSS */
+
+.flickity-slider {
+  transform: none !important;
+}
+
+.gallery-cell {
+  left: 0 !important;
+  opacity: 0;
+  transition: opacity 2s ease-in-out;
+  z-index: -1;
+}
+
+.gallery-cell.is-selected {
+  opacity: 1;
+  z-index: 0
+}
+
 /**
  * Form
  */

@@ -35,7 +35,7 @@
           contain: true,
           pageDots: false,
           prevNextButtons: false,
-          autoPlay: true,
+          autoPlay: 6000,
           pauseAutoPlayOnHover: false,
           draggable: false
         });
