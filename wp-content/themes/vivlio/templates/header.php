@@ -25,7 +25,7 @@
           </a>
         </li>  
         <li class="ello">
-          <a href="https://ello.co/" target="_blank">
+          <a href="https://ello.co/vivlio" target="_blank">
             <svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
             <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
             <title>icon-ello</title>

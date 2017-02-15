@@ -49,6 +49,10 @@ a:hover {
   color: $grey-light-hover;
 }
 
+p:last-child {
+  margin-bottom: 0;
+}
+
 .none {
   display: none;
 }
@@ -104,6 +108,42 @@ img {
     @include rem-fallback(margin-right, 10);  
   } 
 }
+
+
+/**
+ * Footer
+ */
+.footer {
+  @include rem-fallback(padding-top, 84);
+  @include rem-fallback(padding-bottom, 72);
+}
+
+.footer .social-links {
+  margin: 0 auto;
+  padding: 0;
+}
+
+.footer .social-links li {
+  text-align: left;
+  float: left;
+}
+
+.footer h2, 
+.footer h3 {
+  width: 100%;
+  text-align: center;
+}
+
+.footer h2 {
+  @include rem-fallback(font-size, 14);
+  @include rem-fallback(margin-bottom, 48);
+}
+
+.footer h3 {
+  @include rem-fallback(font-size, 12);
+  @include rem-fallback(margin-bottom, 24);
+}
+
 
 /**
  * Header Mid
