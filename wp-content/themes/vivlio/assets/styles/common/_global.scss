@@ -149,12 +149,19 @@ img {
  * Header Mid
  */
 .subject {
-  @include rem-fallback(padding-top, 20);
-  @include rem-fallback(padding-bottom, 20);
+  @include rem-fallback(padding-top, 40);
+  @include rem-fallback(padding-bottom, 30);
   text-align: center;
   h2 {
     @include rem-fallback(font-size, 32);
     text-transform: uppercase;
+    .small-caps {
+      font-family: $bold;
+      @include rem-fallback(font-size, 16); 
+      text-decoration: underline;
+      vertical-align: top;
+      line-height: 2.1;
+    }
   }
   h3 {
     @include rem-fallback(font-size, 14); 
@@ -192,8 +199,8 @@ img {
 .cta-form {
   background-color: $accent;
   color: #fff;
-  @include rem-fallback(padding-top, 20);
-  @include rem-fallback(padding-bottom, 20);
+  @include rem-fallback(padding-top, 40);
+  @include rem-fallback(padding-bottom, 40);
   h2 {
       text-align: center;
       @include rem-fallback(font-size, 28);
