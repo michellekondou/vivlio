@@ -3,7 +3,7 @@
     <div class="row">
         <?php 
             $args = array(
-                 'page_id' => 47
+                 'page_id' => 53
             );
             $footer_query = new WP_Query( $args );
         ?>
