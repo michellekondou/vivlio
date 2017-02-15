@@ -94,6 +94,9 @@ img {
       line-height: 1;
     }
   }
+  .twitter {
+    @include rem-fallback(margin-top, 7);
+  }
 }
 
 @media screen and (max-width: 480px) {
