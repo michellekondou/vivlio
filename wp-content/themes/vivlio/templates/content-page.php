@@ -16,7 +16,9 @@
   </header>
 </div>
 <section class="container-fluid cta-form"> 
-  <h2>Join the Adventure</h2>
+  <div class="row">
+  <?php get_template_part('templates/mailchimp'); ?>
+  </div>
 </section>
 <div class="container">
   <article>
