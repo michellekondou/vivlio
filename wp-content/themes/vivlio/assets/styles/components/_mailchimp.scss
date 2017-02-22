@@ -8,19 +8,18 @@
   position: relative; 
   text-align: left; 
   padding: 0;
-  width: 100%;
-  max-width: 360px;
+  width: 360px;
 }
 
 @media screen and (max-width: 480px) {
   #mc_embed_signup form {
-    max-width: 320px;
+    width: 320px;
   } 
 }
 
 @media screen and (max-width: 360px) {
   #mc_embed_signup form {
-    max-width: 300px;
+    width: 300px;
   } 
 }
 
