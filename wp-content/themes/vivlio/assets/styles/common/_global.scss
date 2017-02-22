@@ -162,7 +162,7 @@ img {
     .small-caps {
       font-family: $bold;
       @include rem-fallback(font-size, 16); 
-      text-decoration: underline;
+      border-bottom: 2px solid $brand-primary;
       vertical-align: top;
       line-height: 2.1;
     }

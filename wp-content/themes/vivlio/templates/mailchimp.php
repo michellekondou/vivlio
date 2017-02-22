@@ -2,7 +2,7 @@
 <div id="mc_embed_signup">
     <form action="//vivl.us14.list-manage.com/subscribe/post?u=288700cb39e45bf1e19de5d50&amp;id=cb509f5a12" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
-            <h2>Join the Adventure!</h2>
+            <h2>Join the Adventure</h2>
             <!-- <div class="indicates-required"><span class="asterisk">*</span> indicates required</div> -->
             <div class="mc-field-group">
                 <label for="mce-LNAME">Name </label>
