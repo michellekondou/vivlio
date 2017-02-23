@@ -39,7 +39,7 @@
           pauseAutoPlayOnHover: false,
           draggable: false
         });
-        console.log('Hello there!');
+        console.log('Hello there!'); 
       },
       finalize: function() {
         // JavaScript to be fired on the home page, after the init JS
