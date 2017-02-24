@@ -16,7 +16,7 @@
                         </g>
                     </g>
                 </g>
-                 <image src="/wp-content/themes/vivlio/dist/images/icon-twitter.jpg" xlink:href=""></image>
+                 <!--[if lt IE 9]><image src="/wp-content/themes/vivlio/dist/images/icon-twitter.jpg" xlink:href=""></image><![endif]-->
             </svg>
           </a>
         </li>  
@@ -46,7 +46,7 @@
             </g>
             </g>
             </g>
-            <image src="/wp-content/themes/vivlio/dist/images/icon-ello.jpg" xlink:href=""></image>
+            <!--[if lt IE 9]><image src="/wp-content/themes/vivlio/dist/images/icon-ello.jpg" xlink:href=""></image><![endif]-->
             </svg>
           </a>
         </li>
@@ -81,7 +81,7 @@
                         </g>
                     </g>
                 </g>
-                <image src="/wp-content/themes/vivlio/dist/images/icon-medium.jpg" xlink:href=""></image>
+                <!--[if lt IE 9]><image src="/wp-content/themes/vivlio/dist/images/icon-medium.jpg" xlink:href=""></image><![endif]-->
             </svg>
           </a>
         </li>
@@ -115,7 +115,7 @@
                         </g>
                     </g>
                 </g>
-                <image src="/wp-content/themes/vivlio/dist/images/icon-instagram.jpg" xlink:href=""></image>
+                <!--[if lt IE 9]><image src="/wp-content/themes/vivlio/dist/images/icon-instagram.jpg" xlink:href=""></image><![endif]-->
             </svg>
           </a>
         </li>
@@ -145,7 +145,7 @@
               </g>
             </g>
             </g>
-            <image src="/wp-content/themes/vivlio/dist/images/icon-facebook.jpg" xlink:href=""></image>
+            <!--[if lt IE 9]><image src="/wp-content/themes/vivlio/dist/images/icon-facebook.jpg" xlink:href=""></image><![endif]-->
             </svg>
           </a>
         </li>
