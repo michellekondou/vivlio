@@ -3,6 +3,7 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <?php wp_head(); ?>
+  <meta property="fb:app_id" content="1734250263554943" /> 
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Vivlio" />
   <meta property="og:description" content="The Universe of Tom Sawyer A print & digital publishing experiment." />
