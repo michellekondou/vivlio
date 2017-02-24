@@ -29,16 +29,18 @@
       init: function() {
         // JavaScript to be fired on the home page
         //flickity
-        $('.carousel').flickity({
-          // options
-          cellAlign: 'left',
-          contain: true,
-          pageDots: false,
-          prevNextButtons: false,
-          autoPlay: 6000,
-          pauseAutoPlayOnHover: false,
-          draggable: false,
-          imagesLoaded: true
+        $(window).load(function () {
+          $('.carousel').flickity({
+            // options
+            cellAlign: 'left',
+            contain: true,
+            pageDots: false,
+            prevNextButtons: false,
+            autoPlay: 6000,
+            pauseAutoPlayOnHover: false,
+            draggable: false,
+            imagesLoaded: true
+          });
         });
         console.log('Hello there!'); 
       },
