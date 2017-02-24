@@ -7,6 +7,6 @@
   <meta property="og:type"            content="website" /> 
   <meta property="og:url"             content="//vivl.io" /> 
   <meta property="og:title"           content="Vivlio" /> 
-  <meta property="og:image"           content="/wp-content/uploads/universe-tom-sawyer-social.jpg" /> 
+  <meta property="og:image"           content="/wp-content/uploads/universe-landscape.jpg" /> 
   <meta property="og:description"    content="We’re a publisher of classics, aiming to revitalise the experience  of reading great books." />
 </head>
