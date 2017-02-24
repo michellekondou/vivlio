@@ -179,6 +179,14 @@ img {
   padding: 0;
 }
 
+.no-js .carousel .gallery-cell {
+  display: none; 
+}
+
+.no-js .carousel .gallery-cell:nth-child(1) {
+  display: block; 
+}
+
 /* Fade CSS */
 
 .flickity-slider {
@@ -195,6 +203,10 @@ img {
 .gallery-cell.is-selected {
   opacity: 1;
   z-index: 0
+}
+
+.no-js .gallery-cell {
+  opacity: 1;
 }
 
 /**

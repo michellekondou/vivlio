@@ -37,9 +37,10 @@
           prevNextButtons: false,
           autoPlay: 6000,
           pauseAutoPlayOnHover: false,
-          draggable: false
+          draggable: false,
+          imagesLoaded: true
         });
-        console.log('Hello there!!!'); 
+        console.log('Hello there!'); 
       },
       finalize: function() {
         // JavaScript to be fired on the home page, after the init JS
