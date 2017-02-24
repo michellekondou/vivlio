@@ -21,7 +21,7 @@
                 <source srcset="<?php echo $image['sizes']['m']; ?>" media="(max-width: 991px)">
                 <source srcset="<?php echo $image['sizes']['xl']; ?>" media="(max-width: 1680px)">
                 <source srcset="<?php echo $image['sizes']['xxl']; ?>" media="(min-width: 1681px)">
-                <img alt="alt: <?php echo $image['caption'];  ?>" class="preload">
+                <img alt="alt: <?php echo $image['caption'];  ?>" class="preload" src="//fake.jpg">
                 <!-- loaded by IE 8+, non-IE browsers that don’t support picture, and browsers that support picture but cannot find an appropriate source -->
                 <!--[if gte IE 8]>
                 <object data="<?php echo $image['sizes']['large']; ?>" type="image/jpeg"></object>
