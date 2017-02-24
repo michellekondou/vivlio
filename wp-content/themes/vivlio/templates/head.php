@@ -3,7 +3,7 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <?php wp_head(); ?>
-  <meta property="og:type"            content="website" /> 
+  <meta property="og:type"            content="article" /> 
   <meta property="og:url"             content="https://vivl.io" /> 
   <meta property="og:title"           content="Vivlio" /> 
   <meta property="og:image"           content="https://vivl.io/wp-content/uploads/universe-landscape.jpg" /> 
